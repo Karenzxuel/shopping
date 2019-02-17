@@ -1,0 +1,349 @@
+{
+    "banner": [
+        {
+            "id": 1,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2019/01/1548678675676.jpg"
+        },
+        {
+            "id": 2,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2019/02/1550222290982.jpg"
+        }
+    ],
+    "hot": [
+        {
+            "id": 1,
+            "src": "./images/active1.jpg"
+        },
+        {
+            "id": 2,
+            "src": ".//images/active2.jpg"
+        },
+        {
+            "id": 3,
+            "src": "./images/active1.jpg"
+        },
+        {
+            "id": 4,
+            "src": "./images/active4.jpg"
+        },
+        {
+            "id": 5,
+            "src": "./images/active5.jpg"
+        },
+        {
+            "id": 6,
+            "src": "./images/active6.jpg"
+        }
+    ],
+    "hotClassify": [
+        {
+            "id": 1,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/10/1539609378046.png"
+        },
+        {
+            "id": 2,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/09/1537262275045.png"
+        },
+        {
+            "id": 3,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/09/1537262295848.jpg"
+        },
+        {
+            "id": 4,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/09/1537262315332.png"
+        },
+        {
+            "id": 5,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/09/1537262362867.png"
+        },
+        {
+            "id": 6,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/09/1537262379961.png"
+        },
+        {
+            "id": 7,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/09/1537262406549.png"
+        },
+        {
+            "id": 8,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2018/10/1539609432716.png"
+        }
+    ],
+    "selectedActivities": [{
+            "id": 1,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2019/01/1548678195612.jpg"
+        },
+        {
+            "id": 2,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2019/02/1550223407344.jpg"
+        },
+        {
+            "id": 3,
+            "src": "https://i1.ygimg.cn/pics/mobile/homepage/2019/02/1550223390996.jpg"
+        }
+    ],
+    "brandArea": [
+        {
+            "id": 1,
+            "bannerSrc": "https://i1.ygimg.cn/pics/mobile/homepage/2019/01/1547548004000.jpg",
+            "littlePicture": [
+                {
+                    "id": 2,
+                    "src": "http://i2.ygimg.cn/pics/adidas/2019/101184089/101184089_01_mb.jpg?5",
+                    "png1": "http://i1.ygimg.cn/pics/adidas/2019/101184089/101184089_01_m.jpg?5",
+                    "png2": "http://i1.ygimg.cn/pics/adidas/2019/101184089/101184089_03_m.jpg?5",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                },
+                {
+                    "id": 3,
+                    "src": "http://i2.ygimg.cn/pics/adidas/2019/101183782/101183782_01_mb.jpg?4",
+                    "png1": "",
+                    "png2": "",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                },
+                {
+                    "id": 4,
+                    "src": "http://i2.ygimg.cn/pics/adidas/2019/101183570/101183570_01_mb.jpg?3.jpg",
+                    "png1": "http://i1.ygimg.cn/pics/adidas/2019/101183570/101183570_01_m.jpg?3",
+                    "png2": "http://i1.ygimg.cn/pics/adidas/2019/101183570/101183570_02_m.jpg?3",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                },
+                {
+                    "id": 9,
+                    "src": "http://i2.ygimg.cn/pics/adidas/2015/100202615/100202615_01_mb.jpg?7",
+                    "png1": "http://i1.ygimg.cn/pics/adidas/2015/100202615/100202615_01_m.jpg?2",
+                    "png2": "http://i1.ygimg.cn/pics/adidas/2015/100202615/100202615_03_m.jpg?2",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "bannerSrc": "https://i1.ygimg.cn/pics/mobile/homepage/2019/01/1547548170893.jpg",
+            "littlePicture": [
+                {
+                    "id": 6,
+                    "src": "http://i2.ygimg.cn/pics/nike/2019/101182252/101182252_01_mb.jpg?3",
+                    "png1": "http://i1.ygimg.cn/pics/nike/2019/101182252/101182252_01_m.jpg?3",
+                    "png2": "http://i1.ygimg.cn/pics/nike/2019/101182252/101182252_04_m.jpg?3",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                },
+                {
+                    "id": 7,
+                    "src": "http://i2.ygimg.cn/pics/nike/2019/101182448/101182448_01_mb.jpg?3",
+                    "png1": "http://i1.ygimg.cn/pics/nike/2019/101182448/101182448_01_m.jpg?3",
+                    "png2": "http://i1.ygimg.cn/pics/nike/2019/101182448/101182448_03_m.jpg?3",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                },
+                {
+                    "id": 8,
+                    "src": "http://i2.ygimg.cn/pics/nike/2018/100699539/100699539_01_mb.jpg?6",
+                    "png1": "http://i1.ygimg.cn/pics/nike/2018/100699539/100699539_01_m.jpg?6",
+                    "png2": "http://i1.ygimg.cn/pics/nike/2018/100699539/100699539_06_m.jpg?6",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                },
+                {
+                    "id": 10,
+                    "src": "http://i2.ygimg.cn/pics/nike/2019/101181851/101181851_01_mb.jpg?3",
+                    "png1": "http://i1.ygimg.cn/pics/nike/2019/101181851/101181851_01_m.jpg?3",
+                    "png2": "http://i1.ygimg.cn/pics/nike/2019/101181851/101181851_03_m.jpg?3",
+                    "cur": "419",
+                    "previous": "509",
+                    "comment": ["支持支持", "非常好呢"]
+                }
+            ]
+        }
+
+    ],
+
+    "recommendeNew": [
+        {
+            "id": 12,
+            "src": "http://i2.ygimg.cn/pics/belle/2019/101193936/101193936_01_mb.jpg?5",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193971/101193971_01_m.jpg?6",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193971/101193971_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 13,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101185910/101185910_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101195747/101195747_01_m.jpg?4",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101195747/101195747_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 14,
+            "src": "http://i2.ygimg.cn/pics/belle/2019/101193992/101193992_01_mb.jpg?2",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193959/101193959_01_m.jpg?4",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193959/101193959_03_m.jpg?4",
+            "price": "779"
+        },
+        {
+            "id": 15,
+            "src": "http://i2.ygimg.cn/pics/teenmix/2019/101194191/101194191_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193992/101193992_01_m.jpg?2",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193992/101193992_03_m.jpg?2",
+            "price": "779"
+        },
+        {
+            "id": 16,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101196975/101196975_01_mb.jpg?4",
+            "png1": "http://i1.ygimg.cn/pics/basto/2019/101091224/101091224_01_m.jpg?8",
+            "png2": "http://i1.ygimg.cn/pics/basto/2019/101091224/101091224_03_m.jpg?8",
+            "price": "779"
+        },
+        {
+            "id": 17,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101196974/101196974_01_mb.jpg?4",
+            "png1": "http://i1.ygimg.cn/pics/teenmix/2019/101195274/101195274_01_m.jpg?2",
+            "png2": "http://i1.ygimg.cn/pics/teenmix/2019/101195274/101195274_03_m.jpg?2",
+            "price": "779"
+        },
+        {
+            "id": 18,
+            "src": "http://i2.ygimg.cn/pics/teenmix/2019/101194907/101194907_01_mb.jpg?2",
+            "png1": "http://i1.ygimg.cn/pics/tata/2019/101197007/101197007_01_m.jpg?3",
+            "png2": "http://i1.ygimg.cn/pics/tata/2019/101197007/101197007_03_m.jpg?3",
+            "price": "779"
+        },
+        {
+            "id": 19,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101091224/101091224_01_mb.jpg?8",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        }
+    ],
+    "recommendeJuHui": [
+        {
+            "id": 20,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101197005/101197005_01_mb.jpg?4",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 21,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101196973/101196973_01_mb.jpg?4",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 22,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101197003/101197003_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 23,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101196977/101196977_01_mb.jpg?4",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 24,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101197013/101197013_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 25,
+            "src": "http://i2.ygimg.cn/pics/belle/2019/101193983/101193983_01_mb.jpg?5",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 26,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101197006/101197006_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 27,
+            "src": "http://i2.ygimg.cn/pics/tata/2019/101197007/101197007_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        }
+    ],
+    "recommendeRenQi": [
+        {
+            "id": 28,
+            "src": "http://i2.ygimg.cn/pics/teenmix/2019/101195279/101195279_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 29,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101101942/101101942_01_mb.jpg?9",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 30,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101185928/101185928_01_mb.jpg?9",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 31,
+            "src": "http://i2.ygimg.cn/pics/belle/2019/101195802/101195802_01_mb.jpg?5",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 32,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101192505/101192505_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 33,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101192442/101192442_01_mb.jpg?2",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 34,
+            "src": "http://i2.ygimg.cn/pics/basto/2019/101192941/101192941_01_mb.jpg?3",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        },
+        {
+            "id": 35,
+            "src": "http://i2.ygimg.cn/pics/belle/2019/101193864/101193864_01_mb.jpg?5",
+            "png1": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_01_m.jpg?5",
+            "png2": "http://i1.ygimg.cn/pics/belle/2019/101193936/101193936_03_m.jpg?6",
+            "price": "779"
+        }
+    ]
+
+
+}
